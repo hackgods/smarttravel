@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Forest Research Institute",
+      "desc": "The Forest Research Institute of India, popularly called as FRI Dehradun is an architectural marvel and vast collection of forestry related items in its six museums, FRI is a must visit place in Dehradun.",
+      "imagePath": "https://travelinguttarakhand.com/wp-content/uploads/2021/02/Forest-Research-Institute-1.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [30.342697, 78.005135]
+    },
+    {
+      "name": "Guchhu Pani Robbers Cave",
+      "desc": "Robbers Cave is a favourite picnic spot for young couples and fun loving enthusiasts. Located near Anarwala village at 8 kms from Dehradun city center. Visitors often visit Robbers Cave for enjoying cold streams of water within natural beauty of caves.",
+      "imagePath": "https://img.itinari.com/pages/images/original/8ea9cc7a-a404-44dc-80cf-5c7fc1e88525-8164504719_2df65f573c_k.jpg?ch=DPR&dpr=2.625&w=1600&s=cd5ce2f9b60e2e5809f640d1b6fef905",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+     {
+      "name": "Santala Devi Temple",
+      "desc": "Right above the Nun Nadi in Dehradun, Santala Devi Temple is a center of faith for the devotees. Located in between dense green forest at a distance of 15 km from Dehradun city in Santur Garh, Santaula Devi and her brother are the dieties of the temple.",
+      "imagePath": "https://www.rajyasameeksha.com/Uploads/e37ebe4f-3287-4101-8a48-97f6400a3929.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+     {
+      "name": "Sahastradhara",
+      "desc": "Sahastradhara which means 'Thousand fold spring' is a famous tourist spot in Dehradun. At the Baldi river, Sahastradhara is located at 14 km from Dehradun city. Tourist visit Sahastradhara in large numbers to watch beauty of waterfalls and caves.",
+      "imagePath": "https://travelinguttarakhand.com/wp-content/uploads/2021/02/Sahastradhara-3-min.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+    {
+      "name": "Tapkeshwar",
+      "desc": "Tapkeshwar is a famous holy temple of Lord Shiva on the bank of seasonal Asan river near Dehradun. Known to have one of the oldest Shivling in the cave, Tapkeshwar Mahadev Temple is located at 6.5 km from Dehradun city. As water droplets continuously drops on the shivling, hence it was named as 'Tapkeshwar'",
+      "imagePath": "https://cdn-coejp.nitrocdn.com/xPGZMAIcGEVKWaxEsHuHVTTFeYWaTvMQ/assets/static/optimized/rev-c3210ef/wp-content/uploads/2020/11/Tapkeshwar-Mahadeva-Mandir-1.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+     {
+      "name": "Buddha Temple",
+      "desc": "Famous for extravagant Buddhist structure and holy school of Tibetan religion, Buddha Temple is the most visited place in Dehradun city. Located at Clement Town, Buddha Temple is center of attraction for many International tourists and Budhhist followers.",
+      "imagePath": "https://cdn.pixabay.com/photo/2018/02/20/17/58/buddha-3168363_960_720.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+     {
+      "name": "Asan Barrage",
+      "desc": "The wetland at Asan Barrage, is situated near the confluence of two perennial rivers Asan and Yamuna near Dehradun. The lake attracts a large number of waterfowl, both waders and divers. The birds listed as globally threatened species and in the IUCN Red Data Book have been observed at Asan.",
+      "imagePath": "https://1.bp.blogspot.com/-uPD0ZSc-5HY/XenTGS9WQGI/AAAAAAAAFpk/xK4fDOpWtTEOG3ScVjXmi5eqLzRU8JRoQCLcBGAsYHQ/s1600/Waterfront.JPG",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+    {
+      "name": "Lachhiwala",
+      "desc": "Encircled between Sal trees, Lachhiwala provides a calm and fun loving environment for visitors. Children and elders find Lachhiwal equal enjoying. Apart from nature views, visitors like to enjoy fun bath in man made water pools here. A stream from Suswa River is collected in number of pools.",
+      "imagePath": "https://cdn-coejp.nitrocdn.com/xPGZMAIcGEVKWaxEsHuHVTTFeYWaTvMQ/assets/static/optimized/rev-c3210ef/wp-content/uploads/2020/11/Lachhiwala-Picnic-Spot.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+    {
+      "name": "Malsi Deer Park/Zoo",
+      "desc": "Malsi Deer Park is a major wildlife lovers attraction after Rajaji National Park in Dehradun. Located at 10 km from Dehradun at Mussoorie Road, this mini Zoological park or garden is now developed as a famous family outing/picnic spot in Dehradun and flushed with visitors during weekends.",
+      "imagePath": "https://static.toiimg.com/photo/msid-26530931,width-96,height-65.cms",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    },
+    {
+      "name": "Daat Kali Temple",
+      "desc": "Popularly known as 'Maa Daat Kali Temple', Daat Kali Temple is one of famous centre of religious sentiments near Dehradun. Located at 14 kms from main Dehradun city in Shahranpur Rd, Daat Kali Temple is visited by hundreds of Goddess Kali devotees all round the year.",
+      "imagePath": "https://www.rajyasameeksha.com/Uploads/e34df3b9-7150-4536-9d62-1d1de42eedb3.jpg",
+      "colors": ["Color(0xFFA70042)", "Color(0xFF004C99)"],
+      "latlng": [19.403, 132.103]
+    }
+  ]
