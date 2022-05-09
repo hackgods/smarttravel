@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:smarttravel/animations/fadeanimation.dart';
-import 'package:smarttravel/widgets/hotels.dart';
+import 'package:smarttravel/screens/hotels.dart';
 import 'package:smarttravel/widgets/sliverbar.dart';
 import 'package:smarttravel/widgets/touristplaces.dart';
 

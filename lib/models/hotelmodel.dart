@@ -15,20 +15,16 @@ class Hotelmodel {
     this.rating,
     this.price,
     this.size,
-    this.image1,
-    this.image2,
-    this.image3,
+    this.img,
     this.latlng,
   });
 
   String name;
   String desc;
-  String rating;
+  int rating;
   String price;
   String size;
-  String image1;
-  String image2;
-  String image3;
+  List<String> img;
   List<double> latlng;
 
   factory Hotelmodel.fromMap(Map<String, dynamic> json) => Hotelmodel(
@@ -37,9 +33,7 @@ class Hotelmodel {
     rating: json["rating"],
     price: json["price"],
     size: json["size"],
-    image1: json["image1"],
-    image2: json["image2"],
-    image3: json["image3"],
+    img: List<String>.from(json["img"].map((x) => x)),
     latlng: List<double>.from(json["latlng"].map((x) => x.toDouble())),
   );
 
@@ -49,9 +43,7 @@ class Hotelmodel {
     "rating": rating,
     "price": price,
     "size": size,
-    "image1": image1,
-    "image2": image2,
-    "image3": image3,
+    "img": List<dynamic>.from(img.map((x) => x)),
     "latlng": List<dynamic>.from(latlng.map((x) => x)),
   };
 }

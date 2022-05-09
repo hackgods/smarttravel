@@ -7,6 +7,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:smarttravel/animations/fadeanimation.dart';
 import 'package:smarttravel/models/hotelmodel.dart';
 import 'package:glass_kit/glass_kit.dart';
+import 'package:smarttravel/screens/hoteldetails.dart';
 
 class HotelsScreen extends StatefulWidget {
   const HotelsScreen({Key key}) : super(key: key);
@@ -56,11 +57,11 @@ class _HotelsScreenState extends State<HotelsScreen> {
               return GestureDetector(
                 onTap: () {
 
-                 /* Navigator.push(
+                  Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => Details(name: i.name,desc: i.desc,img: i.imagePath,loc: [i.latlng[0],i.latlng[1]],)),
+                    MaterialPageRoute(builder: (context) => HotelDetails(name: i.name,desc: i.desc,loc: [i.latlng[0],i.latlng[1]],price: i.price,rating: i.rating.toDouble(),imgs: i.img,size: i.size,)),
                   );
-                  */
+
                 },
                 child: Padding(
                   padding: const EdgeInsets.only(bottom: 40.0),
@@ -98,7 +99,7 @@ class _HotelsScreenState extends State<HotelsScreen> {
                                     ).createShader(Rect.fromLTRB(0, 0, rect.width, rect.height));
                                   },
                                   blendMode: BlendMode.darken,
-                                  child: Image.network(i.image1, fit: BoxFit.cover,width: MediaQuery.of(context).size.width,)),
+                                  child: Image.network(i.img[0], fit: BoxFit.cover,width: MediaQuery.of(context).size.width,)),
                             ),
                           ),
                           Align(
@@ -117,7 +118,7 @@ class _HotelsScreenState extends State<HotelsScreen> {
                                 borderColor: Colors.transparent,
                                 blur: 15.0,
                                 borderWidth: 0.1,
-                                elevation: 3.0,
+                                elevation: 7.0,
                                 isFrostedGlass: true,
                                 shadowColor: Colors.black.withOpacity(0.20),
                                 alignment: Alignment.center,
@@ -126,7 +127,7 @@ class _HotelsScreenState extends State<HotelsScreen> {
                                 child: Text("₹ " + i.price, style: GoogleFonts.poppins(
                                     fontSize: 16,
                                     fontWeight: FontWeight.w600,
-                                    color: Colors.black.withOpacity(0.8)
+                                    color: Colors.black.withOpacity(0.7)
                                 ),),
                               ),
                             ),
